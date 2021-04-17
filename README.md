@@ -26,3 +26,12 @@ npm i
 
 You can see a demo of this app [here](https://citenaresh.github.io/employee-directory/)
 
+## Credits 
+Great gratitude to Luca ([https://github.com/duvet86](https://github.com/duvet86)), Sam ([https://github.com/sam-ngu](https://github.com/sam-ngu)) from the UWA Bootcamp for their enormous help.
+## Contributing 
+I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
